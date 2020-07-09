@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on iOS and macOS App and Frameworks development. 
+- 🌱 I’m currently learning Swift UI. 
+- 💬 Ask me about anything on iOS, macOS and Apple technologies. 
+
 <!--
 **mohsinkhawas/mohsinkhawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
