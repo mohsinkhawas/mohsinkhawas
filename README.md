@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on iOS and macOS App and Frameworks development. 
-- 🌱 I’m currently learning Swift UI. 
+- 🌱 I’m currently learning on AI adoption, AI tooling and usage. 
 - 💬 Ask me about anything on iOS, macOS and Apple technologies. 
 
 <!--
